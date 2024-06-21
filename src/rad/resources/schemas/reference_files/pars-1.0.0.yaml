@@ -5,6 +5,8 @@ id: asdf://stsci.edu/datamodels/roman/schemas/reference_files/pars-1.0.0
 
 title: Pars File Schema
 
+datamodel_name: ParsRefModel
+
 type: object
 properties:
   meta:
