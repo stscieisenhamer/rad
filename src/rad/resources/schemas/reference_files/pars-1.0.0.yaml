@@ -16,7 +16,7 @@ properties:
         properties:
           reftype:
             type: string
-            enum: [PARS]
+            enum: [PARS, PARS-DARKCURRENTSTEP]
           instrument:
             type: object
             properties:
